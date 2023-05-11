@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1576038364 source:c:\users\sanborns\desktop\proyecto_logica_uv\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 c:\users\sanborns\desktop\proyecto_logica_uv\inicia.h
+
+1576718154 source:c:\users\sanborns\desktop\proyecto_logica_uv\main.cpp
+	<allegro.h>
+	<time.h>
+	<iostream>
+	"inicia.h"
+
+1576038364 source:c:\users\sanborns\desktop\proyecto_logica_uv_liliana_fernada\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 c:\users\sanborns\desktop\proyecto_logica_uv_liliana_fernada\inicia.h
+
+1576718154 source:c:\users\sanborns\desktop\proyecto_logica_uv_liliana_fernada\main.cpp
+	<allegro.h>
+	<time.h>
+	<iostream>
+	"inicia.h"
+
